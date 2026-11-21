@@ -16,8 +16,8 @@
 ## Features / Особенности
 
 - **Optimized Performance / Оптимизация:** Built on top of Sodium, Lithium, Krypton, C2ME, and other top-tier performance mods to ensure stable FPS even on low-end PCs.
-  *(Построена на базе Sodium, Lithium, Krypton, C2ME и других топовых модов, чтобы обеспечить стабильный FPS даже на слабых ПК.)*
-
+  *(Построена на базе Sodium, Lithium, Krypton, C2ME и других топовых модовx
+  
 - **Stunning Visuals / Потрясающий визуал:** Iris Shaders, 3D items, custom animations (Fresh Animations, Punchy), and atmospheric effects.
   *(Iris Shaders, 3D-предметы, кастомные анимации и атмосферные эффекты.)*
 
